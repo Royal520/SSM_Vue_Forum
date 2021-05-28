@@ -1,0 +1,8 @@
+2021-04-06 21:30:22,598 0      [           main] INFO  ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@22f71333: startup date [Tue Apr 06 21:30:22 CST 2021]; root of context hierarchy
+2021-04-06 21:30:22,665 67     [           main] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [applicationContext.xml]
+2021-04-06 21:30:23,266 668    [           main] INFO         com.mchange.v2.log.MLog  - MLog clients using log4j logging.
+2021-04-06 21:30:23,861 1263   [           main] INFO  m.mchange.v2.c3p0.C3P0Registry  - Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2021-04-06 21:35:17,520 0      [           main] INFO  ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@22f71333: startup date [Tue Apr 06 21:35:17 CST 2021]; root of context hierarchy
+2021-04-06 21:35:17,621 101    [           main] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [applicationContext.xml]
+2021-04-06 21:35:18,264 744    [           main] INFO         com.mchange.v2.log.MLog  - MLog clients using log4j logging.
+2021-04-06 21:35:18,913 1393   [           main] INFO  m.mchange.v2.c3p0.C3P0Registry  - Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
